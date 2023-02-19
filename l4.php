@@ -1,5 +1,4 @@
 <?php
-    <?php
     //task1
     $task_arr = [4, 5, 1, 4, 7, 8, 15, 6, 71, 45, 2];
     function Even_number ($arr){
