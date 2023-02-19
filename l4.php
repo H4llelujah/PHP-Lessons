@@ -107,5 +107,3 @@
      $test = search('Ключ', $box);
 
      var_dump($test);
-
-     echo $test;
